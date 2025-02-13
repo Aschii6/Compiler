@@ -6,6 +6,8 @@ Custom programming language, simplified and modified version of C++.
 Uses Finite State-Machines to extract identifiers, constants.
 Parser uses Formal Context Free Grammars and LL 1 Parsing Alghoritm.
 
+Grammar of the programming language in inputs/grammar.txt
+
 Future goals: implement attributed grammar, Intermediate Code Generation, Code Generation
 
 ## Flex Bison
