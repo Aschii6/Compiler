@@ -1,0 +1,6 @@
+main() {
+	int a;
+	cin >> a;
+	a = a * 2 + 5 * 4;
+	cout << a;
+}
